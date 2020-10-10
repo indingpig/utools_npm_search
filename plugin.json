@@ -1,0 +1,19 @@
+{
+	"pluginName": "npm-search",
+  "description": "搜索npmjs包",
+	"author": "indingpig",
+  "preload":"preload.js",
+	"version": "0.0.1",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "npm",
+		  "explain": "hello world",
+			"cmds":["npm"]
+		}
+	],
+	"development": {
+		"preload": "preload.js",
+		"logo": "logo.png"
+	}
+}

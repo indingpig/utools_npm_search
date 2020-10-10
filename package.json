@@ -1,0 +1,14 @@
+{
+  "name": "utools-npmsearch",
+  "version": "0.0.1",
+  "description": "npm package search",
+  "main": "preload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm-search"
+  ],
+  "author": "sheldonLee",
+  "license": "ISC"
+}
