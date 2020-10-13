@@ -8,7 +8,7 @@
 	"features": [
 		{
 		  "code": "npm",
-		  "explain": "hello world",
+		  "explain": "search npm package",
 			"cmds":["npm"]
 		}
 	],
