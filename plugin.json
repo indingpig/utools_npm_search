@@ -2,7 +2,7 @@
 	"pluginName": "npm-search",
   "description": "搜索npmjs包",
 	"author": "indingpig",
-  "preload":"preload.js",
+	"preload":"preload.js",
 	"version": "0.0.1",
 	"logo": "logo.png",
 	"features": [
